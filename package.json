@@ -1,0 +1,15 @@
+{
+  "name": "rpn-calculator-cli",
+  "version": "1.0.0",
+  "description": "A RPN calculator for the command line",
+  "main": "./bin/index.js",
+  "bin": {
+    "rpn": "./bin/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["rpn", "cli", "calculator", "math", "terminal"],
+  "author": "",
+  "license": "ISC"
+}
